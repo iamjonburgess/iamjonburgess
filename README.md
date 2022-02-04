@@ -1,8 +1,7 @@
-### Hi there, I'm Jon 👋
-
-<!--
-## I'm a
--->
+<h1 align="left">Hi there, I'm Jon<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1>
 
 ### Languages and Tools:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -14,9 +13,7 @@
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
-<br />
-<br />
-
+<br/>
 
 ### Connect with me:
 
@@ -38,6 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [linkedin]: https://linkedin.com/in/iamjonburgess
 [twitter]: https://twitter.com/iamjonburgess
 [instagram]: https://instagram.com/iamjonburgess
