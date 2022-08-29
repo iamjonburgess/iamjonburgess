@@ -19,9 +19,10 @@
 ### Connect with me:
 
 [<img align="left" alt="iamjonburgess | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!--
 [<img align="left" alt="iamjonburgess | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="iamjonburgess | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+-->
 <!--
 **iamjonburgess/iamjonburgess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
